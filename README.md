@@ -1,1 +1,1 @@
-AutomationExercise "Selenium Project"
+AutomationExercise Page "Selenium Project"
